@@ -1,0 +1,16 @@
+name: bioimage-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy>=1.24
+  - scipy>=1.10
+  - scikit-image>=0.22
+  - scikit-learn>=1.3
+  - py-opencv>=4.8
+  - matplotlib>=3.7
+  - pandas>=2.0
+  - tifffile>=2023.1
+  - pytorch>=2.1        # Notebook 3 only; CPU build is enough
+  - jupyterlab>=4.0
+  - ipykernel

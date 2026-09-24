@@ -1,0 +1,15 @@
+# Files the notebooks write
+outputs/
+
+# Jupyter / Python clutter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+venv/
+bioimage-env/
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
