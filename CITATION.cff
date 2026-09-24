@@ -1,5 +1,9 @@
 cff-version: 1.2.0
 message: "If you use these notebooks, please cite them as below."
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22944570"
+    description: "Zenodo archive of v1.0.0"
 title: "Bioimage Analysis Notebooks: From Pixels to U-Net"
 abstract: >-
   Educational Jupyter notebooks that teach bioimage analysis, from pixels and
@@ -11,6 +15,7 @@ authors:
     family-names: Behnamie
     email: pooryabehnamie@gmail.com
     website: "https://pooryabehnamie.com"
+doi: "10.5281/zenodo.22944570"
 repository-code: "https://github.com/PooryaBehnamie/bioimage-analysis-notebooks"
 license: MIT
 version: 1.0.0

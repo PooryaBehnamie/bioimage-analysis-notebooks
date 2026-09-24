@@ -1,5 +1,7 @@
 # Bioimage Analysis Notebooks: From Pixels to U-Net
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22944570.svg)](https://doi.org/10.5281/zenodo.22944570)
+
 A set of **educational Jupyter notebooks** that teach bioimage analysis, from what a pixel is to training a small deep-learning model. They are written for undergraduates, graduate students and early-stage researchers in biology, medicine and computer science.
 
 Everything is built around one real research question: **detecting extrachromosomal DNA (ecDNA) in FISH microscopy images of cancer cells.** Classical image processing and modern AI are taught side by side, on the same data, with honest evaluation.
@@ -96,4 +98,6 @@ These notebooks were written with help from AI tools (ChatGPT, Grok, Gemini and 
 Created by **Poorya Behnamie, MD** as part of an *AI in Education* project that builds accessible, scientifically rigorous tutorials for computational biology and image analysis.
 [pooryabehnamie.com](https://pooryabehnamie.com) · [GitHub](https://github.com/PooryaBehnamie) · [LinkedIn](https://www.linkedin.com/in/poorya-behnamie)
 
-**How to cite:** Behnamie, P. (2026). *Bioimage Analysis Notebooks: From Pixels to U-Net.* GitHub. https://github.com/PooryaBehnamie/bioimage-analysis-notebooks
+**How to cite:** Behnamie, P. (2026). *Bioimage Analysis Notebooks: From Pixels to U-Net* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.22944570
+
+GitHub's **"Cite this repository"** button (right sidebar) gives the same citation in APA and BibTeX.
